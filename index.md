@@ -2,7 +2,7 @@
 
 Here is guide to make Sticker for WhatsApp.
 
-Before we get started, make sure you're install *Ayra's Sticker Maker*
+Before we get started, make sure you're install [Ayra's Sticker Maker](https://github.com/AyraHikari/ayra_sticker_maker/releases/)
 
 # Auto Maker (Telegram/Line Stickers)
 
@@ -166,3 +166,7 @@ Examples:
  └ my_stickers.ayrawapack
 ```
 2. Transfer to your phone, open file manager, open `my_stickers.ayrawapack`, then open as *Ayra's Sticker Maker* to import that sticker
+
+# Import WhatsApp Stickers
+
+Just open a file name `.ayrawapack`, then select *Ayra's Sticker Maker* app, it will import your stickers
