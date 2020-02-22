@@ -4,6 +4,11 @@ Here is guide to make Sticker for WhatsApp.
 
 Before we get started, make sure you're install [Ayra's Sticker Maker](https://github.com/AyraHikari/ayra_sticker_maker/releases/)
 
+# Download Ayra's Sticker Maker
+
+Download latest release here
+- https://github.com/AyraHikari/ayra_sticker_maker/releases
+
 # Auto Maker (Telegram/Line Stickers)
 
 1. Copy Telegram/Line sticker
